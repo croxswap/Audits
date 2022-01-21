@@ -1,6 +1,6 @@
 # Audits
 
-CROX token contract, farming contract and timelock contract were audited by Techrate.
+
 
 CROX BSC token Audit- https://github.com/TechRate/Smart-Contract-Audits/blob/main/Crox%20Final.pdf
 
